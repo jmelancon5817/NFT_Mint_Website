@@ -2,12 +2,12 @@
 
 This project demonstrates a basic NFT minting website with a wallet connectivity feature and full minting capabilities.
 
-Try running some of the following tasks:
+<p></p>
 
-```shell
-npx hardhat accounts
+<img alt="Molding" width="40%" src="screenshots/Molding" />
+<img alt="Smiles" width="40%" src="screenshots/Smiles" />
 
-```
+
 <h1>Tools Used</h1>
 <li>React</li>
 <li>Hardhat</li>
