@@ -1,6 +1,6 @@
 # NFT_Mint_Website
 
-This project demonstrates a basic NFT minting website with a wallet connectivity feature and full minting capabilities.
+This project demonstrates a basic NFT mint website with a wallet connectivity feature and full minting capabilities.
 
 <p></p>
 
