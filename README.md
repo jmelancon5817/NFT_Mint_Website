@@ -4,8 +4,9 @@ This project demonstrates a basic NFT minting website with a wallet connectivity
 
 <p></p>
 
-<img alt="Molding" width="40%" src="screenshots/Molding" />
-<img alt="Smiles" width="40%" src="screenshots/Smiles" />
+<img alt="Molding" width="40%" src="screenshots/Molding.png" />
+<img alt="Smiles" width="40%" src="screenshots/Smiles.png" />
+<img alt="Smiles" width="40%" src="screenshots/Mint.png" />
 
 
 <h1>Tools Used</h1>
